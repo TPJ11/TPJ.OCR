@@ -9,7 +9,9 @@ TPJ.OCR uses a number of other open source packages so special thanks to:
 - [IRON Drawing](https://ironsoftware.com/open-source/csharp/drawing/docs/)
 
 # How to use TPJ.OCR
-First you must convert the image you wish to OCR into a `AnyBitmap` file, if you are loading it from disk then this is simple done like so:
+First copy the `tessdata`, `x64`, and `x86` folders from the example app `TPJ.TestOCR` from github, set each of the files from within those folders to `copy if newer`. This is the tesseract engine that will perform the OCR.
+
+You must convert the image you wish to OCR into a `AnyBitmap` file, if you are loading it from disk then this is simple done like so:
 
 ```
 AnyBitmap.FromFile(filePath);
