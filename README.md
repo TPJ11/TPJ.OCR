@@ -4,9 +4,9 @@ Simple OCR library to make OCRing images easy!
 # Thanks
 TPJ.OCR uses a number of other open source packages so special thanks to:
 
-[Tesseract](https://github.com/tesseract-ocr/tesseract)
-[Charlesw Tesseract Wrapper](https://github.com/charlesw/tesseract/)
-[IRON Drawing](https://ironsoftware.com/open-source/csharp/drawing/docs/)
+- [Tesseract](https://github.com/tesseract-ocr/tesseract)
+- [Charlesw Tesseract Wrapper](https://github.com/charlesw/tesseract/)
+- [IRON Drawing](https://ironsoftware.com/open-source/csharp/drawing/docs/)
 
 # How to use TPJ.OCR
 First you must convert the image you wish to OCR into a `AnyBitmap` file, if you are loading it from disk then this is simple done like so:
