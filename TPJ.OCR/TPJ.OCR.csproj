@@ -12,7 +12,7 @@
 	<PackageTags>OCR,Tesseract</PackageTags>
 	<PackageReleaseNotes>V1.0</PackageReleaseNotes>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<Version>1.0.0</Version>
+	<Version>1.0.1</Version>
 	<PackageId>TPJ.OCR</PackageId>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
 	<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
